@@ -1,0 +1,11 @@
+{
+  "name": "anki-vocabulary-manager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "make dev",
+    "build": "make build",
+    "test": "make test",
+    "lint": "make lint"
+  }
+}
